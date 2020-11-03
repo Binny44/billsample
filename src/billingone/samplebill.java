@@ -2,7 +2,9 @@ package billingone;
 
 public class samplebill {
     public static void main(String[] args) {
-        System.out.println("Java is fun");
-        System.out.println("Binny is QA");
+        int numone = 12;
+        int numtwo = 13;
+        int sum = numone + numtwo;
+        System.out.println("The total number is: " + sum);
     }
 }
